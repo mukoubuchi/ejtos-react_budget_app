@@ -1,0 +1,6 @@
+(undo-tree-save-format-version . 1)
+"f822c57e49b929436815f25411e0cbe081b3e461"
+[nil nil nil nil (26071 45896 941598 0) 0 nil]
+([nil nil ((1 . 674) (t 26071 45573 155947 183000)) nil (26071 45896 941596 0) 0 nil])
+([nil current ((#("    " 0 4 (fontified t face whitespace-trailing)) . -315) 674) nil (26071 45896 941588 0) 0 nil])
+nil
